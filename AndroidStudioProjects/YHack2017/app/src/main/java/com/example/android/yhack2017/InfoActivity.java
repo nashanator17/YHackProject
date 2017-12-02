@@ -19,7 +19,7 @@ public class InfoActivity extends AppCompatActivity {
 
         setContentView(R.layout.votelist);
 
-        voteList.add(new info("Vote for Repeal of Bill-112","LA", "2017-12-24", 3));
+        voteList.add(new info("H.R. 1164: Taylor Force Act","LA", "2017-12-24", 3));
         voteList.add(new info("Vote for ban on windows","NY", "2017-12-05", 1));
         voteList.add(new info("Vote for Governer of Illinois","NY", "2017-12-26", 4));
         voteList.add(new info("Vote for Legalization of food","MI", "2017-12-15", 2));
